@@ -45,6 +45,7 @@ for the language you're using. Otherwise, it prompts you to enter one.
 * Ada's [ada_language_server][ada_language_server]
 * Scala's [metals][metals]
 * TeX/LaTeX's [Digestif][digestif]
+* Vue's [vue-language-server][vetur]
 
 I'll add to this list as I test more servers. In the meantime you can
 customize `eglot-server-programs`:

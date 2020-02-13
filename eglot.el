@@ -87,6 +87,7 @@
                                 ((js-mode
                                   typescript-mode)
                                  . ("javascript-typescript-stdio"))
+                                (vue-mode . ("vls" "--stdio"))
                                 (sh-mode . ("bash-language-server" "start"))
 				(php-mode . ("php" "vendor/felixfbecker/\
 language-server/bin/php-language-server.php"))
